@@ -1,0 +1,60 @@
+<div class="layout">
+  <div class="layout__backdrop"></div>
+  <div class="layout__frontdrop"></div>
+  <div class="layout__wrapper">
+    <header class="layout__header">
+      <nav>
+        <ul class="nav nav--header nav--header-1">
+          <li class="nav__item nav__item--home">
+            <a class="nav__link" href="#0">Home</a>
+          </li>
+          <li class="nav__item nav__item--about">
+            <a class="nav__link" href="#0">About</a>
+          </li>
+          <li class="nav__item nav__item--clients">
+            <a class="nav__link" href="#0">Clients</a>
+            <ul class="nav nav--header nav--header-2">
+              <li class="nav__item">
+                <a class="nav__link" href="#0">Krum IT Solutions</a>
+              </li>
+              <li class="nav__item">
+                <a class="nav__link" href="#0">Google</a>
+              </li>
+              <li class="nav__item">
+                <a class="nav__link"  href="#0">BMO Harris</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav__item nav__item--services">
+            <a class="nav__link" href="#0">Services</a>
+            <ul class="nav nav--header nav--header-2">
+              <li class="nav__item">
+                <a class="nav__link" href="#0">Web Hosting</a>
+              </li>
+              <li class="nav__item">
+                <a class="nav__link" href="#0">Web Design</a>
+              </li>
+              <li class="nav__item">
+                <a class="nav__link" href="#0">Mobile App Development</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav__item nav__item--contact">
+            <a class="nav__link" href="#0">Contact</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <main class="layout__main">
+      <section class='hero'>
+        <div class="hero-block hero-block--header">
+          <h1 class="hero-title">
+            Kamikaze1212  <em>Github Showcase </em>
+            
+          </h1>
+          <p class="hero-text">The idea was to fork a pretty basic navigation</a> and make something nice with it. Made me practice on my hover and active state more.</p>
+        </div>
+      </section>
+    </main>
+  </div>
+</div>
