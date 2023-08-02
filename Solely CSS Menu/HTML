@@ -1,0 +1,15 @@
+
+  	<input class="menu-icon" type="checkbox" id="menu-icon" name="menu-icon"/>
+  	<label for="menu-icon"></label>
+  	<nav class="nav"> 		
+  		<ul class="pt-5">
+  			<li><a href="#">Solutions</a></li>
+  			<li><a href="#">Portfolio</a></li>
+  			<li><a href="#">Clients</a></li>
+  			<li><a href="#">Contact</a></li>
+  		</ul>
+  	</nav>
+
+  	<div class="section-center">
+  		<h1 class="mb-0">Solely CSS Menu</h1>
+  	</div>
