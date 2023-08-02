@@ -1,0 +1,4 @@
+<label class="pure-material-switch">
+  <input type="checkbox">
+  <span>Switch</span>
+</label>
