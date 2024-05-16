@@ -61,6 +61,7 @@ h1{
   cursor: pointer;
   z-index: 10;
 }
+
 .menu-icon:checked + label:before,
 .menu-icon:not(:checked) + label:before{
   position: absolute;
