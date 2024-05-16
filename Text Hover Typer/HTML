@@ -1,0 +1,4 @@
+<button class="button" data-text="Awesome">
+    <span class="actual-text">&nbsp;Krum&nbsp;</span>
+    <span aria-hidden="true" class="hover-text">&nbsp;Krum&nbsp;</span>
+</button>
